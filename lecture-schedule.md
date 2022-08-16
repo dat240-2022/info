@@ -25,7 +25,7 @@
 | 39    | 26/09 | Lecture | Glenn            | Testing in Lab3 & QnA                         |                                                       |                           |
 |   | 27/09 | Lab     | Nicolas          |                                               |                                                       |                           |
 |     | 28/09 | Lecture | Glenn            |                                               |                                                       |                           |
-|     | 29/09 | Lab     | Nicolas          |      **Assignment 2 due**                                            |                                                       | Lab starts a little later |
+|     | 29/09 | Lab     | Nicolas          |      **Assignment 2 due**                                            |                                                       |  |
 | 40    | 03/10 | Lecture | Nicolas?         | Functional programming, lambdas, monads       |                                                       |                           |
 |   | 04/10 | Lab     | Nicolas          |                                               |                                                       |                           |
 |     | 05/10 | Lecture | Glenn            |                                               |                                                       |                           |
