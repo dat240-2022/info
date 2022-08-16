@@ -2,17 +2,17 @@
 
 | W   | Date  | Type    | Teacher          | Topic                                         | Resources                                             | Travels / Remarks         |
 | --- | ----- | ------- | ---------------- | --------------------------------------------- | ----------------------------------------------------- | ------------------------- |
-| 34  | 23/08 | Lab     | Nicolas          | Git, setup QuickFeed, VS code installation    |                                                       |                           |
-|     | 25/08 | Lecture | Glenn            | Course introduction, C# syntax and git        | Suggested reading: chapter 2 and 3 in the C# book     |                           |
-|     | 27/08 | Lecture | Glenn            | Typing, Generics, Object Oriented Programming | Suggested reading: chapters 5 and 6 in the C# book.   |                           |
-|     | 27/08 | Lab     | Nicolas          | and start working on assignment 1             |                                                       |                           |
-| 35  | 30/08 | Lab     | Nicolas          | Work on Assignment 1                          |                                                       |                           |
-|     | 01/09 | Lecture | Glenn            | Object Oriented Programming (continued) TDD   | Suggested reading: chapter 4 in the C# book.          |                           |
-|     | 03/09 | Lecture | Glenn            | More TDD, mocking, design patterns            |                                                       |                           |
-|     | 03/09 | Lab     | Nicolas          |                                               |                                                       |                           |
-| 36  | 06/09 | Lab     | Nicolas          |                                               |                                                       |                           |
-|     | 08/09 | Lecture | Glenn            | Using databases                               | Suggested reading: chapters 11 and 12 in the C# book  |                           |
-|     | 10/09 | Lecture | Glenn            | More databases                                |                                                       |                           |
+| 34    | 22/08 | Lecture | Glenn            | Course introduction, C# syntax and git        | Suggested reading: chapter 2 and 3 in the C# book     |                       
+|       | 23/08 | Lab     | Nicolas          | Git, setup QuickFeed, VS code installation    |                                                       |                             |
+|       | 24/08 | Lecture | Glenn            | Typing, Generics, Object Oriented Programming | Suggested reading: chapters 5 and 6 in the C# book.   |                           |
+|       | 25/08 | Lab     | Nicolas          | and start working on assignment 1             |                                                       |                           |                    
+| 35    | 29/08 | Lecture | Glenn            | Object Oriented Programming (continued) TDD   | Suggested reading: chapter 4 in the C# book.          | |
+|       | 30/08 | Lab     | Nicolas          | Work on Assignment 1                          |                                                       |  |
+|       | 31/08 | Lecture | Glenn            | More TDD, mocking, design patterns            |                                                       |                         |
+|       | 01/09 | Lab     | Nicolas          |                                               |                                                       |                           |
+| 36    | 06/09 | Lab     | Nicolas          |                                               |                                                       |                           |
+|       | 08/09 | Lecture | Glenn            | Using databases                               | Suggested reading: chapters 11 and 12 in the C# book  |                           |
+|       | 10/09 | Lecture | Glenn            | More databases                                |                                                       |                           |
 |     | 10/09 | Lab     | Nicolas          | **Assignment 1 due**                          |                                                       |                           |
 | 37  | 13/09 | Lab     | Nicolas?         |                                               |                                                       | Nicolas away              |
 |     | 15/09 | Lecture | Eugene/Lien      | Guest lecture on DevOps                       |                                                       |                           |
