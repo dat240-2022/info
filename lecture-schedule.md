@@ -10,10 +10,10 @@
 |       | 30/08 | Lab     | Nicolas          | Work on Assignment 1                          |                                                       |  |
 |       | 31/08 | Lecture | Glenn            | More TDD, mocking, design patterns            |                                                       |                         |
 |       | 01/09 | Lab     | Nicolas          |                                               |                                                       |                           |
-| 36    | 06/09 | Lab     | Nicolas          |                                               |                                                       |                           |
-|       | 08/09 | Lecture | Glenn            | Using databases                               | Suggested reading: chapters 11 and 12 in the C# book  |                           |
-|       | 10/09 | Lecture | Glenn            | More databases                                |                                                       |                           |
-|     | 10/09 | Lab     | Nicolas          | **Assignment 1 due**                          |                                                       |                           |
+| 36      | 05/09 | Lecture | Glenn            | Using databases                               | Suggested reading: chapters 11 and 12 in the C# book  |                        |
+|     | 06/09 | Lab     | Nicolas          |                                               |                                                       |                           |
+|       | 07/09 | Lecture | Glenn            | More databases                                |                                                       |                           |
+|     | 08/09 | Lab     | Nicolas          | **Assignment 1 due**                          |                                                       |                           |
 | 37  | 13/09 | Lab     | Nicolas?         |                                               |                                                       | Nicolas away              |
 |     | 15/09 | Lecture | Eugene/Lien      | Guest lecture on DevOps                       |                                                       |                           |
 |     | 17/09 | Lecture | Eugene/Lien      | Guest lecture on DevOps                       |                                                       |                           |
