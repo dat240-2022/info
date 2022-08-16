@@ -14,44 +14,43 @@
 |     | 06/09 | Lab     | Nicolas          |                                               |                                                       |                           |
 |       | 07/09 | Lecture | Glenn            | More databases                                |                                                       |                           |
 |     | 08/09 | Lab     | Nicolas          | **Assignment 1 due**                          |                                                       |                           |
-| 37  | 13/09 | Lab     | Nicolas?         |                                               |                                                       | Nicolas away              |
-|     | 15/09 | Lecture | Eugene/Lien      | Guest lecture on DevOps                       |                                                       |                           |
-|     | 17/09 | Lecture | Eugene/Lien      | Guest lecture on DevOps                       |                                                       |                           |
-|     | 17/09 | Lab     | Ferdinand/Thomas |                                               |                                                       | Nicolas away              |
-| 38  | 20/09 | Lab     | Ferdinand/Thomas |                                               |                                                       | Nicolas away              |
-|     | 22/09 | Lecture | Glenn            | Web development with ASP.NET                  | Suggested reading: chapters 15 and 16 in the C# book. |                           |
-|     | 24/09 | Lecture | Glenn            | Development process (Agile)                   | Suggested reading: [Agile Manifesto](https://agilemanifesto.org/) and [it's principles](https://agilemanifesto.org/principles.html)                                                    |                           |
-|     | 24/09 | Lab     | Ferdinand/Thomas |                                               |                                                       | Nicolas away              |
-| 39  | 27/09 | Lab     | Nicolas          |                                               |                                                       |                           |
-|     | 29/09 | Lecture | Glenn            | Domain Driven Development                     | Suggested reading: Domain Driven Design book, chapter 2 - Communication and the use of language  |                           |
-|     | 01/09 | Lecture | Glenn            | Domain Driven Development                     |                                                       |                           |
-|     | 01/10 | Lab     | Nicolas          | **Assignment 2 due**                          |                                                       |                           |
-| 40  | 04/10 | Lab     | Nicolas          |                                               |                                                       |                           |
-|     | 06/10 | Lecture | Glenn            | Testing in Lab3 & QnA                         |                                                       |                           |
-|     | 08/10 | Lecture | Glenn            |                                               |                                                       |                           |
-|     | 08/10 | Lab     | Nicolas          |                                               |                                                       | Lab starts a little later |
-| 41  | 11/10 | Lab     | Nicolas          |                                               |                                                       |                           |
-|     | 13/10 | Lecture | Nicolas?         | Functional programming, lambdas, monads       |                                                       |                           |
-|     | 15/10 | Lecture | Glenn            |                                               |                                                       |                           |
-|     | 15/10 | Lab     | Nicolas          |                                               |                                                       |                           |
-| 42  | 18/10 | Lab     | Nicolas          |                                               |                                                       |                           |
-|     | 20/10 | Lecture | Glenn            |                                               |                                                       |                           |
-|     | 22/10 | Lecture | Glenn            |                                               |                                                       |                           |
-|     | 22/10 | Lab     | Nicolas          | **Aissgnment 3 due**                          |                                                       |                           |
-| 43  | 25/10 | Lab     | Nicolas          |                                               |                                                       |                           |
-|     | 27/10 | Lecture | Glenn            |                                               |                                                       |                           |
-|     | 29/10 | Lecture | Glenn            |                                               |                                                       |                           |
-|     | 29/10 | Lab     | Nicolas          |                                               |                                                       |                           |
-| 44  | 01/11 | Lab     | Nicolas          |                                               |                                                       |                           |
-|     | 03/11 | Lecture | Glenn            |                                               |                                                       |                           |
-|     | 05/11 | Lecture | Glenn            |                                               |                                                       |                           |
-|     | 05/11 | Lab     | Nicolas          |                                               |                                                       |                           |
-| 45  | 08/11 | Lab     | Nicolas          |                                               |                                                       |                           |
-|     | 10/11 | Lecture | Glenn            |                                               |                                                       |                           |
-|     | 12/11 | Lecture | Glenn            |                                               |                                                       |                           |
-|     | 12/11 | Lab     | Nicolas          |                                               |                                                       |                           |
-| 46  | 15/11 | Lab     | Nicolas          |                                               |                                                       |                           |
-|     | 17/11 | Lecture | Glenn            |                                               |                                                       |                           |
-|     | 19/11 | Lecture | Glenn            |                                               |                                                       |                           |
-|     | 19/11 | Lab     | Nicolas          | **Project due**                               |                                                       |                           |
-
+| 37    | 12/09 | Lecture | Glenn            | Web development with ASP.NET                  | Suggested reading: chapters 15 and 16 in the C# book. |                           |
+|   | 13/09 | Lab     | Nicolas |                                               |                                                       | |
+|     | 14/09 | Lecture | Glenn            | Development process (Agile)                   | Suggested reading: [Agile Manifesto](https://agilemanifesto.org/) and [it's principles](https://agilemanifesto.org/principles.html)                                                    |                           |
+|     | 15/09 | Lab     | Nicolas |                                               |                                                       |               |
+|   38  | 19/09 | Lecture | Glenn            | Domain Driven Development                     | Suggested reading: Domain Driven Design book, chapter 2 - Communication and the use of language  |                           |
+|   | 20/09 | Lab     | Nicolas          |                                               |                                                       |                           |
+|     | 21/09 | Lecture | Glenn            | Domain Driven Development                     |                                                       |                           |
+|     | 22/09 | Lab     | Nicolas          |                        |                                                       |                           |
+| 39    | 26/09 | Lecture | Glenn            | Testing in Lab3 & QnA                         |                                                       |                           |
+|   | 27/09 | Lab     | Nicolas          |                                               |                                                       |                           |
+|     | 28/09 | Lecture | Glenn            |                                               |                                                       |                           |
+|     | 29/09 | Lab     | Nicolas          |      **Assignment 2 due**                                            |                                                       | Lab starts a little later |
+| 40    | 03/10 | Lecture | Nicolas?         | Functional programming, lambdas, monads       |                                                       |                           |
+|   | 04/10 | Lab     | Nicolas          |                                               |                                                       |                           |
+|     | 05/10 | Lecture | Glenn            |                                               |                                                       |                           |
+|     | 06/10 | Lab     | Nicolas          |                                               |                                                       |                           |
+|  41   | 10/10 | Lecture | Glenn            |                                               |                                                       |                           |
+|   | 11/10 | Lab     | Nicolas          |                                               |                                                       |                           |
+|     | 12/10 | Lecture | Glenn            |                                               |                                                       |                           |
+|     | 13/10 | Lab     | Nicolas          |                          |                                                       |                           |
+|  42   | 17/10 | Lecture | Glenn            |                                               |                                                       |                           |
+|   | 18/10 | Lab     | Nicolas          |                                               |                                                       |                           |
+|     | 19/10 | Lecture | Glenn            |                                               |                                                       |                           |
+|     | 20/10 | Lab     | Nicolas          |                   **Aissgnment 3 due**                             |                                                       |                           |
+|  43   | 24/10 | Lecture | Glenn            |                                               |                                                       |                           |
+|  | 25/10 | Lab     | Nicolas          |                                               |                                                       |                           |
+|     | 26/10 | Lecture | Glenn            |                                               |                                                       |                           |
+|     | 27/10 | Lab     | Nicolas          |                                               |                                                       |                           |
+|  44   | 31/10 | Lecture | Glenn            |                                               |                                                       |                           |
+|  | 01/11 | Lab     | Nicolas          |                                               |                                                       |                           |
+|     | 02/11 | Lecture | Glenn            |                                               |                                                       |                           |
+|     | 03/11 | Lab     | Nicolas          |                                               |                                                       |                           |
+|  45   | 07/10 | Lecture | Glenn            |                                               |                                                       |                           |
+|  | 08/11 | Lab     | Nicolas          |                                               |                                                       |                           |
+|     | 09/11 | Lecture | Glenn            |                                               |                                                       |                           |
+|     | 10/11 | Lab     | Nicolas          |                                               |                                                       |                           |
+|  46   | 14/11 | Lecture | Glenn            |                                               |                                                       |                           |
+|  | 15/11 | Lab     | Nicolas          |                                               |                                                       |                           |
+|     | 16/11 | Lecture | Glenn            |                                               |                                                       |                           |
+|     | 17/11 | Lab     | Nicolas          |       **Project due**                                          |                                                       |                           |
