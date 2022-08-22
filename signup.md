@@ -57,15 +57,15 @@ Here are two short videos describing these steps: [Part 1](https://youtu.be/3KJm
 4. You will then be invited to the course organization on GitHub and two separate repositories.
    You will need to navigate to each of these links and accept these invitations:
 
-   - Navigate to the course organization [dat240-2021](https://github.com/dat240-2021) accept the invitation.
-   - Navigate to the [assignments](https://github.com/dat240-2021/assignments) repository and accept the invitation.
-   - Navigate to your private <https://github.com/dat240-2021/username-labs> repository and accept the invitation.
+   - Navigate to the course organization [dat240-2022](https://github.com/dat240-2022) accept the invitation.
+   - Navigate to the [assignments](https://github.com/dat240-2022/assignments) repository and accept the invitation.
+   - Navigate to your private <https://github.com/dat240-2022/username-labs> repository and accept the invitation.
      Remember to replace `username` in this link with your own GitHub `username`.
 
    Several invitation emails will also be sent to the email address associated with your GitHub account.
    However, emails from GitHub can sometimes take a while to arrive.
 
-5. Once you have accepted the invitations, you will get your own repository under `dat240-2021`, which is the course's organization on GitHub.
+5. Once you have accepted the invitations, you will get your own repository under `dat240-2022`, which is the course's organization on GitHub.
 
 ## Group Sign up on QuickFeed
 
@@ -110,7 +110,7 @@ Here are two short videos describing these steps: [Part 1](https://youtu.be/3KJm
    where `username` is your GitHub username.
 
    Note that to register with the bot, you must previously have registered with QuickFeed.
-   Hence, please make sure that you have joined the [`dat240-2021`](https://github.com/dat240-2021) GitHub organization and registered with QuickFeed first.
+   Hence, please make sure that you have joined the [`dat240-2022`](https://github.com/dat240-2022) GitHub organization and registered with QuickFeed first.
 
    If you need help with registering on the server, send a message in `#new-users`.
 -->
