@@ -3,5 +3,7 @@
 - Labs in KE-E455 and KE-E456 on Tuesdays and KE-E454 and KE-456 on Thursdays from 10.15 to 12.
 - [Lecture Schedule](./lecture-schedule.md)
 - [QuickFeed signup](./signup.md)
-- [QuickFeed link](https://uis.itest.run) (Currently down will be back soon!)
-- [Dicord server](https://github.com/dat240-2022/info/blob/main/signup.md#discord-dat240-server-registration)
+- [QuickFeed link](https://uis.itest.run)
+- [Lab submissions](./lab-submission.md)
+- [Discord server](https://github.com/dat240-2022/info/blob/main/signup.md#discord-dat240-server-registration)
+- [Discord server invite](https://discord.gg/r2nfyD6JXx)
