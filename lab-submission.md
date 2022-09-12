@@ -75,7 +75,7 @@ Here are two videos describing these steps: [Part 1 (~10 minutes)](https://youtu
    git clone git@github.com:dat240-2022/username-labs assignments
    cd assignments
    git remote add course-assignments git@github.com:dat240-2022/assignments
-   git pull course-assignments master
+   git pull course-assignments main
    ```
 
    Alternative 2:
@@ -87,7 +87,7 @@ Here are two videos describing these steps: [Part 1 (~10 minutes)](https://youtu
    git clone https://github.com/dat240-2022/username-labs assignments
    cd assignments
    git remote add course-assignments https://github.com/dat240-2022/assignments
-   git pull course-assignments master
+   git pull course-assignments main
    ```
 
 3. You may be asked for username and password above.
